@@ -3,9 +3,6 @@
 
 <img width="1880" height="902" alt="netlfix done1" src="https://github.com/user-attachments/assets/188296a6-fc0c-41ac-b64a-4c178e697528" />
 
-<img width="1436" height="344" alt="image" src="https://github.com/user-attachments/assets/eac5acaf-cb6b-40bb-8d53-add717db88b8" />
-
-<img width="925" height="528" alt="k" src="https://github.com/user-attachments/assets/bde7ca17-876b-48f4-b46a-a8e2f002f92f" />
 
 
 
@@ -401,6 +398,9 @@ pipeline {
 
 ```
 
+<img width="1893" height="891" alt="prometheus " src="https://github.com/user-attachments/assets/40798fd9-ba74-4384-9fe7-82cf06ef3fe3" />
+
+
 **Phase 4: Monitoring**
 
 1. **Install Prometheus and Grafana:**
@@ -722,6 +722,9 @@ That's it! You've successfully installed and set up Grafana to work with Prometh
     - Set up email notifications in Jenkins or other notification mechanisms.
 
 # Phase 6: Kubernetes
+<img width="925" height="528" alt="k" src="https://github.com/user-attachments/assets/d03b2d53-5174-4a4c-90cf-612ea993e25e" />
+
+
 
 ## Create Kubernetes Cluster with Nodegroups
 
@@ -793,5 +796,5 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
 
 **Phase 7: Cleanup**
 
-1. **Cleanup AWS EC2 Instances:**
-    - Terminate AWS EC2 instances that are no longer needed.
+1. **Cleanup GCP Compute Enginer/ Aws Ec2 Instances:**
+    - Terminate GCP Compute Enginer/ AWS EC2 instances that are no longer needed.

@@ -3,8 +3,6 @@
 
 <img width="1880" height="902" alt="netlfix done1" src="https://github.com/user-attachments/assets/188296a6-fc0c-41ac-b64a-4c178e697528" />
 
-<img width="1893" height="891" alt="prometheus " src="https://github.com/user-attachments/assets/b3e4407a-3865-40d1-baae-82f58daaee5b" />
-
 <img width="1436" height="344" alt="image" src="https://github.com/user-attachments/assets/eac5acaf-cb6b-40bb-8d53-add717db88b8" />
 
 <img width="925" height="528" alt="k" src="https://github.com/user-attachments/assets/bde7ca17-876b-48f4-b46a-a8e2f002f92f" />

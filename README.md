@@ -1,22 +1,21 @@
-<div align="center">
-  <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
-  <br>
-  <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
-    <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
-  </a>
-</div>
+<img width="1880" height="1016" alt="netlfix done " src="https://github.com/user-attachments/assets/d53bb2fd-43b0-4fb9-bbf3-f5cd9872ddb3" />
 
-<br />
+<img width="1880" height="902" alt="netlfix done1" src="https://github.com/user-attachments/assets/188296a6-fc0c-41ac-b64a-4c178e697528" />
 
-<div align="center">
-  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
-  <p align="center">Home Page</p>
-</div>
+<img width="1893" height="891" alt="prometheus " src="https://github.com/user-attachments/assets/b3e4407a-3865-40d1-baae-82f58daaee5b" />
+
+<img width="1436" height="344" alt="image" src="https://github.com/user-attachments/assets/eac5acaf-cb6b-40bb-8d53-add717db88b8" />
+
+<img width="925" height="528" alt="k" src="https://github.com/user-attachments/assets/bde7ca17-876b-48f4-b46a-a8e2f002f92f" />
+
+
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
 ### **Phase 1: Initial Setup and Deployment**
+
+<img width="1915" height="883" alt="google " src="https://github.com/user-attachments/assets/62d631e0-b244-4a61-bb7e-83372c575850" />
 
 **Step 1: Launch GCP Compute Engine / Ec2  (Ubuntu 22.04):**
 
@@ -107,6 +106,9 @@ docker build --build-arg TMDB_V3_API_KEY=<your-api-key> -t netflix .
 2. **Integrate SonarQube and Configure:**
     - Integrate SonarQube with your CI/CD pipeline.
     - Configure SonarQube to analyze code for quality and security issues.
+
+    <img width="1897" height="906" alt="sonar " src="https://github.com/user-attachments/assets/76a5be58-6360-41c9-a79c-436baa662dd0" />
+
 
 **Phase 3: CI/CD Setup**
 
@@ -229,6 +231,7 @@ pipeline {
 
 ```
 
+
 Certainly, here are the instructions without step numbers:
 
 **Install Dependency-Check and Docker Tools in Jenkins**
@@ -272,6 +275,11 @@ Certainly, here are the instructions without step numbers:
   - Click "OK" to save your DockerHub credentials.
 
 Now, you have installed the Dependency-Check plugin, configured the tool, and added Docker-related plugins along with your DockerHub credentials in Jenkins. You can now proceed with configuring your Jenkins pipeline to include these tools and credentials in your CI/CD process.
+
+<img width="797" height="693" alt="pipeline" src="https://github.com/user-attachments/assets/d6d4f872-d6e2-41ca-80d5-76ccf6527d12" />
+
+
+
 
 ```groovy
 
